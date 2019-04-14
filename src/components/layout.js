@@ -35,9 +35,9 @@ const Layout = ({ children }) => (
         <main>{children}</main>
 
         <footer>
-          © {new Date().getFullYear()}, Built by Faraz Uddin using React
+          © {new Date().getFullYear()}, Built using React by
             {` `}
-          <a href="www.farazuddinv.com">Gatsby</a>
+          <a href="https://farazuddin.com/">Faraz Uddin</a>
         </footer>
 
       </>
