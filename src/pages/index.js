@@ -54,6 +54,7 @@ const IndexPage = () => (
       </div>
     </div>
 
+  
     <div className="Cards">
       <h2>Courses</h2>
       <div className="CardGroup">
@@ -78,6 +79,7 @@ const IndexPage = () => (
           image={require("../images/wallpaper4.jpg")}
         />
       </div>
+
       <Section
         image={require("../images/wallpaper2.jpg")}
         logo={require("../images/logo-react.png")}

@@ -4,7 +4,7 @@
   position: relative;
   overflow: hidden;
   border-radius: 20px;
-  box-shadow: 0 20px 40px rgba(0,0,0, 0.15);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
   display: grid;
   grid-template-rows: 1fr 1fr;
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -13,7 +13,7 @@
 
 .Card:hover {
   transform: scale(1.1, 1.1);
-  box-shadow: 0 30px 60px rgba(0,0,0, 0.5);
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
 }
 
 .Card:hover img {
@@ -36,7 +36,7 @@
 }
 
 .Card p {
-  color: rgba(255,255,255, 0.8);
+  color: rgba(255, 255, 255, 0.8);
   text-transform: uppercase;
   font-weight: 600;
   font-size: 18px;
@@ -49,7 +49,7 @@
   font-size: 60px;
   text-align: center;
   font-weight: 700;
-  background: linear-gradient(104.74deg, #050A27 0%,#4A548C 100%);
+  background: linear-gradient(104.74deg, #050a27 0%, #4a548c 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
